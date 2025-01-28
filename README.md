@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Abisheakraj O,  a Developer specializing in Web Applications.<br><br>Currently, I'm honing my skills in Django Backend Framework and working towards becoming a proficient Full Stack Developer.<br><br>I'm actively seeking opportunities to collaborate on MERN (MongoDB, Express.js, React, Node.js) development projects.<br><br>Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abisheak-raj-06904b294) for potential collaborations or contact me on [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=red&color=white)](mailto:o.abisheakraj1107@gmail.com) .
+Hello, I'm Abisheakraj O,  a Developer specializing in Web Applications.<br><br>Currently, I'm honing my skills in Django Backend Framework and working towards becoming a proficient Full Stack Developer.<br><br>I'm actively seeking opportunities to collaborate on Front-end and AI/ML development projects.<br><br>Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abisheak-raj-06904b294) for potential collaborations or contact me on [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=red&color=white)](mailto:o.abisheakraj1107@gmail.com) .
 
 
 ## 🌐 Socials:
